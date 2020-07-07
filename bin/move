@@ -11,4 +11,5 @@ input = gets.strip
 
 input_to_index(input)
 
-move(board, index, current_player = "X")
+move
+
