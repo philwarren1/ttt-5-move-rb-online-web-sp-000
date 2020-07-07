@@ -7,9 +7,8 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Where would you like to go?"
 
-gets.strip = input
-
-input_index = index
+input = gets.strip
+greeting(name)
 
 
 
